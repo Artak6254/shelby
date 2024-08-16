@@ -3724,6 +3724,24 @@
       "childageArr": "[]",
       "city": "Գյումրի",
       "isValid": "Yes"
+    },
+    {
+      "id": "f3ac",
+      "email": "artakp@gmail.com",
+      "phone": "687687867867",
+      "name": "CRETE",
+      "selectedCity": "Gyumri",
+      "hotel": "Anemos Luxury Grand Resort 5*",
+      "transport_depart": "EVN - HER, A3 4299, Y, 03:00 - 05:15",
+      "transport_arrive": "HER - EVN, A3 4298, Y, 22:30 - 02:15",
+      "checkin": "2024-08-24",
+      "checkout": "2024-08-29",
+      "rooms": "2",
+      "adults": "2",
+      "children": "1",
+      "childageArr": "[\"3 years old\"]",
+      "city": "Gyumri",
+      "isValid": "Yes"
     }
   ],
   "about_page_progress": [
