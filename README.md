@@ -1,12 +1,41 @@
-# Getting Started with Create React App
+## Booking React app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This test booking site was created with react js for the styles used scss.<br/>
+The data is stored on the server json locally
+This project was scss with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+```
+bash
+
+npm install
+```
+
+```
+bash
+
+npm run dev
+```
+##Homepage
+![Alt text](./assets/image0.png) 
+![Alt text](./assets/image5.png)
+![Alt text](./assets/image8.png)
+![Alt text](./assets/image9.png)
+![Alt text](./assets/image10.png)
+
+##Booking page
+![Alt text](./assets/image1.png)  ![Alt text](./assets/image2.png) 
+![Alt text](./assets/image3.png) 
+
+![Alt text](./assets/image4.png) 
+
+##About page
+![Alt text](./assets/image5.png) 
+
+![Alt text](./assets/image6.png) 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
