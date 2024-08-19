@@ -4,9 +4,9 @@ This test booking site was created with react js for the styles used scss.<br/>
 The data is stored on the server json locally
 This project was scss with [Create React App](https://github.com/facebook/create-react-app).
 
-### Available Scripts
+## 📝INSTALLATION
 ```
-[npm install](https://github.com/Artak6254/shelby.git)
+git clone https://github.com/Artak6254/shelby.git
 ```
 In the project directory, you can run:
 
